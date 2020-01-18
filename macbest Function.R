@@ -1,6 +1,6 @@
 # Function to compare binary classifiers
 
-# This function returns 
+# This function returns the test matrix as well as results of the McNemar test in a list.
 
 # model1_preds, model2_preds: models to be compared
 # data: data, which contains true value labels
